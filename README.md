@@ -58,6 +58,10 @@ Handle the following custom conversion specifier:
 ring                                                                                
 Handle the following custom conversion specifier:                                   
                                                                                     
-15. *                                                                               
-All the above options work well together. 
+15. *
+
+
+// (joke) printf makes my code printf-icient
+//        Don't printf, just code!
+//	  steal the code, not the jokes :-) 
 
